@@ -3,8 +3,6 @@ YouTube에서 원하는 영상들만 골라 강의리스트를 완성하고, 강
 
 </br>
 
-</br>
-
 ## 기술스택
 
 | division        | stack                                                                                                                                                                                                                                                                                                       |
@@ -14,12 +12,6 @@ YouTube에서 원하는 영상들만 골라 강의리스트를 완성하고, 강
 | Code Management | <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=black"> |
 | Formatting      | <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">                                 |
 | DB              | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black"> |
-
-</br>
-
-## 기획서
-
-[Figma Link](https://www.figma.com/file/PWOrxikyK7YTAdcYR2YNtS/kimleean?node-id=0%3A1)
 
 </br>
 
